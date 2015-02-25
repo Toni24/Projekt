@@ -139,7 +139,6 @@ public class FileChooser extends JPanel implements ActionListener {
 				log.append("Open command cancelled by user." + newline);
 			}
 			log.setCaretPosition(log.getDocument().getLength());
-
 		} 
 	}
 
